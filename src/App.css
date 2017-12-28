@@ -1,0 +1,39 @@
+.logos {
+  width: 15%;
+}
+
+footer {
+  background-color: #F8F8F8;
+}
+
+.search-bar {
+  margin: 20px;
+  text-align: center;
+}
+
+.search-bar input {
+  width: 55%;
+}
+
+.search-button {
+  width: auto!important;
+  margin: 5px;
+}
+
+.wn-logo {
+  width: 3%;
+}
+
+.banner-image {
+    margin:auto;
+}
+
+/* Header Menu */
+
+.activities-menu {
+  width: 25em;
+}
+
+.navbar-nav {
+    margin-left:5%;
+}
